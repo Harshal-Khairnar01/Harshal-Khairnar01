@@ -46,6 +46,12 @@
 - 🔐 [**Password Generator**](https://lockmint-password-generator-by-harshal.vercel.app/)  
   A secure and customizable password generator built with ReactJs. Allows users to generate strong, random passwords with options for length, symbols, numbers, and more. Focuses on improving online security practices.
 
+- 🔧 [**Next Do**](https://next-do-by-harshal.vercel.app)  
+  A full-featured Todo application built with React and Redux Toolkit. It supports complete CRUD operations, todo completion toggles, and persistent local storage. 
+
+- 🔧 [**Memochive**](https://harshal-khairnar.vercel.app/)  
+  A sleek and modern note-taking application built with React 19 and TailwindCSS. Memochive lets users effortlessly create, organize, and manage notes with features like pinning, archiving, a recycle bin, and persistent dark/light themes. Fully responsive and powered by localStorage for state preservation. Ideal for everyday productivity!
+
 ---
 
 
