@@ -40,6 +40,9 @@
 - 🔧 [**Personal Portfolio**](https://harshal-khairnar.vercel.app/)  
   A dynamic and responsive portfolio website to showcase my skills, projects, and contact information. Built with a clean UI and smooth animations to represent my professional identity effectively.
 
+- 🔧 [**Typenest: A cozy place for writing**](https://typenest-by-harshal.vercel.app)  
+  Typenest is a structured blogging platform built using Next.js 14 (App Router) and Tailwind CSS, designed for developers to create, manage, and publish content efficiently. It features dynamic routing, MDX support, a clean UI, and content fetched from a headless CMS, showcasing modern frontend architecture and performance-focused design.
+
 - 🍲 [**Full Stack Recipe Website**](https://foodiess-heaven.vercel.app/)  
   A visually appealing recipe-sharing platform built using the MERN stack. Users can explore, search, and add recipes with ingredients and cooking steps. Integrated with image uploads and user-friendly filters.
 
